@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ramakrishnakasa
 - 👀 I’m interested in Android development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
